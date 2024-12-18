@@ -7,7 +7,4 @@
 - Big plans and ideas in the making
 - Don't ask me to share.
 
-<!---
-KaratGilt/KaratGilt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You are the main character in a live action RPG in real-time.  You just don't know it, yet.
